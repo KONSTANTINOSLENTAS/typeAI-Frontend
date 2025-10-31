@@ -137,7 +137,7 @@
 }
 
 .typing-area {
-  height: 10px;
+  height: 100px;
   margin-top: 20px;
 }
 .typing-area.free-text {
