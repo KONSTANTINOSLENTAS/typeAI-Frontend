@@ -139,9 +139,11 @@
 .typing-area {
   height: 100px;
   margin-top: 20px;
+  resize: none;
 }
 .typing-area.free-text {
   height: 150px;
+  resize: none;
 }
 .typing-area:disabled {
   border-color: #555;
