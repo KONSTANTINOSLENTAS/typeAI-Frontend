@@ -9,7 +9,7 @@ const DIVERSE_SENTENCES = [
 ];
 const DIVERSE_SAMPLES_REQUIRED = DIVERSE_SENTENCES.length;
 const FREE_SAMPLES_REQUIRED = 5;
-const API_BASE_URL = "http://127.0.0.1:5000";
+const API_BASE_URL = "https://typeai.onrender.com";
 
 // --- Helper Functions (normalize, getAccuracy, useKeystrokeCapture) (Unchanged) ---
 const normalize = (str) => {
